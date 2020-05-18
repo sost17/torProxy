@@ -1,0 +1,7 @@
+CookieAuthentication 1
+ControlPort 9051
+DataDirectory E:\tor\Data\Tor
+GeoIPFile E:\tor\Data\Tor\geoip
+GeoIPv6File E:\tor\Data\Tor\geoip6
+HTTPSProxy 127.0.0.1:8421
+ReachableAddresses *:80,*:443
