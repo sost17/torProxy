@@ -5,10 +5,12 @@
 
 由于Mac、Linux使用Tor代理特别简单，使用软件安装器一装即可，因此本文使用的Windows 10 环境。
 ## 0001-Tor下载
+
 Tor软件可以去官网下载Tor-browser，也可以下载Console界面的软件，只需配置下配置文件即可。
 Console界面的可以下载源码自行DIY，编译，安装即可。也可以下载Windows Expert Bundle，里面版本是Tor 0.4.2.7
-[下载地址]([https://www.torproject.org/download/tor/](https://www.torproject.org/download/tor/)
-)
+
+https://www.torproject.org/download/tor/
+
 ![](https://upload-images.jianshu.io/upload_images/3429964-4f008a46a862daee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 0010-Tor 配置
